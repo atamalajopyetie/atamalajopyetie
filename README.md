@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **panchwaghmanas@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1j0cwwrJ91DjPGNi0Nk2moS3i9NVDKSaT/view?usp=sharing](https://drive.google.com/file/d/1j0cwwrJ91DjPGNi0Nk2moS3i9NVDKSaT/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1j0cwwrJ91DjPGNi0Nk2moS3i9NVDKSaT/view?usp=sharing]([https://drive.google.com/file/d/1j0cwwrJ91DjPGNi0Nk2moS3i9NVDKSaT/view?usp=sharing](https://drive.google.com/file/d/16fY4ASacZc0qNaWGq9pHgFatISYTx35j/view?usp=drive_link))
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
