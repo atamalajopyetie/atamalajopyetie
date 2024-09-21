@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manas Panchwagh</h1>
-<h3 align="center">A passionate frontend developer from Engineering student (Year 3) with a strong focus in Cybersecurity seeking a hands-on role. Adept at applying data structures & algorithms to solve complex problems. Eager to leverage my engineering background and academic knowledge to contribute to your cyber defense efforts. India</h3>
+<h3 align="center">A passionate Engineering student (Year 3) with a strong focus in Cybersecurity seeking a hands-on role. Adept at applying data structures & algorithms to solve complex problems. Eager to leverage my engineering background and academic knowledge to contribute to your cyber defense efforts. India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atamalajopyetie&label=Profile%20views&color=0e75b6&style=flat" alt="atamalajopyetie" /> </p>
 
