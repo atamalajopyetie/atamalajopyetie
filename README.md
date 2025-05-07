@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atamalajopyetie&label=Profile%20views&color=0e75b6&style=flat" alt="atamalajopyetie" /> </p>
 
-- 🔭 I’m currently working on **OpenStack Cloud Creation**
+- 🔭 I’m currently working on **Upskilling my cybersecurity skills**
 
-- 🌱 I’m currently learning **DSA,CyberSecurity,Wireshark,Splunk**
+- 🌱 I’m currently learning **CyberSecurity,Wireshark,Splunk,Suricata,NMAP,AWS,Cloud Infrastructure,Vulnerability Assesment**
 
 - 📝 I regularly write articles on [https://medium.com/@panchwaghmanas](https://medium.com/@panchwaghmanas)
 
